@@ -1,0 +1,88 @@
+{
+    "name": "YRC",
+    "description": "We are the original LTL experts with comprehensive North American coverage and a broad portfolio of expedited and specialized LTL freight shipping services.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/981-yrc.jpg",
+    "tags": [
+        "have api",
+        "tracking"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/yrc\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "YRC",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/981-yrc.jpg",
+            "humanURL": "http:\/\/www.yrc.com\/e_commerce\/api.html",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/yrc-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/yrc-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/yrc-worldwide-inc"
+        },
+        {
+            "type": "Email",
+            "url": "customer.service@yrcfreight.com"
+        },
+        {
+            "type": "Email",
+            "url": "domestic.ocean@yrcfreight.com"
+        },
+        {
+            "type": "Email",
+            "url": "Exhibit.Services@yrcfreight.com"
+        },
+        {
+            "type": "Email",
+            "url": "ecomm@yrcfreight.com"
+        },
+        {
+            "type": "Email",
+            "url": "accountspayable@yrcfreight.com"
+        },
+        {
+            "type": "Email",
+            "url": "paymentresolution@yrcfreight.com"
+        },
+        {
+            "type": "Email",
+            "url": "spanish.service@yrcfreight.com"
+        },
+        {
+            "type": "Email",
+            "url": "cargoclaims@yrcfreight.com"
+        },
+        {
+            "type": "Email",
+            "url": "credit.risk@yrcfreight.com"
+        },
+        {
+            "type": "Email",
+            "url": "Invoicing@yrcfreight.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/YRCFreightLTL"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.yrc.com\/e_commerce\/api.html"
+        }
+    ]
+}
